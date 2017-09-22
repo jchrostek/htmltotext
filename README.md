@@ -1,5 +1,5 @@
 # HtmlToText
-pulling content from the page
+Pulling content from the page
 ## What is the script used for?
 This script extracts content from any web page by removing HTML, PHP, JS, and CSS tags
 ## How to use
